@@ -1,0 +1,4 @@
+# Ignorar el archivo privado.txt
+privada.txt
+# Ignorar la carpeta privada
+privada/
